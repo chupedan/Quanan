@@ -1,0 +1,11 @@
+D:\HeQuanTriCSDL\btNhom\btNhom\bin\Debug\btNhom.exe.config
+D:\HeQuanTriCSDL\btNhom\btNhom\bin\Debug\btNhom.exe
+D:\HeQuanTriCSDL\btNhom\btNhom\bin\Debug\btNhom.pdb
+D:\HeQuanTriCSDL\btNhom\btNhom\obj\Debug\btNhom.csproj.AssemblyReference.cache
+D:\HeQuanTriCSDL\btNhom\btNhom\obj\Debug\btNhom.csproj.SuggestedBindingRedirects.cache
+D:\HeQuanTriCSDL\btNhom\btNhom\obj\Debug\btNhom.Properties.Resources.resources
+D:\HeQuanTriCSDL\btNhom\btNhom\obj\Debug\btNhom.csproj.GenerateResource.cache
+D:\HeQuanTriCSDL\btNhom\btNhom\obj\Debug\btNhom.csproj.CoreCompileInputs.cache
+D:\HeQuanTriCSDL\btNhom\btNhom\obj\Debug\btNhom.exe
+D:\HeQuanTriCSDL\btNhom\btNhom\obj\Debug\btNhom.pdb
+D:\HeQuanTriCSDL\btNhom\btNhom\obj\Debug\btNhom.Menu.resources
